@@ -20,14 +20,16 @@ They let you use gitub with a private repo and more than 3 contributors
 
 (7) Each team member clone the repo to their own computers.
 
+## Working with the team repo
+
 The directory `tomcl` shows sample individual code submission files and project.
 
 * Add one directory for each team member named by his/her IC login
 * Create branches for each team member (see below). After initial setup no-one should directly commit to master except for repo maintenance purposes.
 * Make sure the project and file structure for each individual submission follows that in `tomcl` directory (module files can have different names, there can be more than one module)
-* Each team member should clone the team repo for their own work - KEEPING ALL THEIR CODE UNDER THEIR DIRECTORY EXCEPT FOR FUNCTIONS WRITTEN FOR OTHERS
-* Each team member should do work under OWN BRANCH(s). OWN branched named `login-XXX` where `login` is team member login and `XXX` is name of branch. (Could be just one branch names `login`).
-* Each team member should merge their work to master/ update from master from time to time. Needed before end if their work has functions leant from others.
+* Each team member must KEEP ALL THEIR INDIVIDUAL CODE UNDER THEIR DIRECTORY EXCEPT FOR FUNCTIONS WRITTEN FOR OTHER PEOPLE
+* Each team member should do work under OWN BRANCH(s). OWN branches named `login-XXX` where `login` is team member login and `XXX` is name of branch. (Could be just one branch named `login-dev`).
+* Each team member should merge their work to master/ update from master from time to time. Needed before end (for assessment) and if their work has functions contributed from/to others.
 * Directory `team` will be used for final team deliverable. In that case merging individual branch work is not trivial since all code will run under the same directory.
 
 ## Guidelines
