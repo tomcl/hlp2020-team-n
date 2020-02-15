@@ -2,7 +2,7 @@
 
 Sample repo for HLP2020.
 
-Fork this repo to make a template for your team repo (replace `team-n` by your piazza team name)
+Fork this repo once only to make a template for your team repo (replace `team-n` by your piazza team name)
 
 The directory `tomcl` shows sample individual code submission files and project.
 
