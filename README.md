@@ -2,12 +2,28 @@
 
 Sample repo for HLP2020.
 
-Fork this repo once only to make a template for your team repo (replace `team-n` by your piazza team name)
+FOLLOW THESE INSTRUCTIONS
+
+They let you use gitub with a private repo and more than 3 contributors
+
+(1) Create a github id from github.com using your **imperial.ac.uk** e-mail address
+
+(2) Join ImperialCollegeLondon organisation as detailed [here](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/working-with-githubcom/).
+
+(3) Fork this repo once only (one student) to imperialcollegelondon github. 
+
+(4) Rename the forked repo (settings)replacing `team-n` by your piazza team name.
+
+(5) Set is as **private** (settings).
+
+(6) Add all team members as contributors with write permission.
+
+(7) Each team member clone the repo to their own computers.
 
 The directory `tomcl` shows sample individual code submission files and project.
 
 * Add one directory for each team member named by his/her IC login
-* Create branches for each team member (see below) after initial setup no-one should directly commit to master except for repo maintenance purposes.
+* Create branches for each team member (see below). After initial setup no-one should directly commit to master except for repo maintenance purposes.
 * Make sure the project and file structure for each individual submission follows that in `tomcl` directory (module files can have different names, there can be more than one module)
 * Each team member should clone the team repo for their own work - KEEPING ALL THEIR CODE UNDER THEIR DIRECTORY EXCEPT FOR FUNCTIONS WRITTEN FOR OTHERS
 * Each team member should do work under OWN BRANCH(s). OWN branched named `login-XXX` where `login` is team member login and `XXX` is name of branch. (Could be just one branch names `login`).
