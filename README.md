@@ -8,13 +8,13 @@ They let you use gitub with a private repo and more than 3 contributors
 
 (1) Create a github id from github.com using your **imperial.ac.uk** e-mail address
 
-(2) Join ImperialCollegeLondon organisation as detailed [here](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/working-with-githubcom/).
+(2) Join ImperialCollegeLondon organisation as detailed [here](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/working-with-githubcom/). If these instructions do not work let me know.
 
 (3) Fork this repo once only (one student) to imperialcollegelondon github. 
 
 (4) Rename the forked repo (settings)replacing `team-n` by your piazza team name.
 
-(5) Set is as **private** (settings).
+(5) Set is as **private** (settings). Add me (tomcl) as contributor.
 
 (6) Add all team members as contributors with write permission.
 
