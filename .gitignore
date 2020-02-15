@@ -35,3 +35,21 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+temp
+.fake
+.vs
+
+# ionide
+*.js
+*.js.map
+.orig
+release.cmd
+release-preview.cmd
+paket-files
+issueList.md
+release/package-lock\.json
+*.vsix
+/release/bin_netcore/
+**/.ionide
+/vendor/.paket/Paket.Restore.targets
+/release-exp/
