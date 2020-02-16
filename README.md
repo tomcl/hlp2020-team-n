@@ -10,13 +10,20 @@ They let you use gitub with a private repo and more than 3 contributors
 
 (2) Join ImperialCollegeLondon organisation as detailed [here](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/working-with-githubcom/). If these instructions do not work let me know.
 
-(3) Fork this repo once only (one student) to imperialcollegelondon github. 
+(3) Create a private repo named hlp2020-id where id is replaced by your piazza team id (spaces turned into -).
 
-(4) Rename the forked repo (settings)replacing `team-n` by your piazza team name.
+(4) Clone it locally 
 
-(5) Set is as **private** (settings). Add me (tomcl) as contributor.
+(5) Download this repo as a zip file
+
+(5) extract all files from zip into local clone previously created
+
+   - check this readme is at top level in repo clone
+   - check ./.gitignore exists in repo clone
 
 (6) Add all team members as contributors with write permission.
+
+(6a) Add me as contributor with read permission.
 
 (7) Each team member clone the repo to their own computers.
 
