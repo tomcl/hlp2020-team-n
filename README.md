@@ -6,11 +6,11 @@ FOLLOW THESE INSTRUCTIONS
 
 They let you use gitub with a private repo and more than 3 contributors
 
-(1) Create a github id from github.com using your **imperial.ac.uk** e-mail address
+(1) Create a github id from github.com using your **imperial.ac.uk** e-mail address if you don't have such now.
 
-(2) Join ImperialCollegeLondon organisation as detailed [here](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/working-with-githubcom/). If these instructions do not work let me know.
+(2) Join ImperialCollegeLondon organisation as detailed [here](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/research-support-systems/github/working-with-githubcom/). NB you must be on campus or vpn for this to work.
 
-(3) Create a private repo named hlp2020-id where id is replaced by your piazza team id (spaces turned into -).
+(3) Create a github private repo named hlp2020-id under imperialcollege london org where id is replaced by your piazza team id (spaces turned into -).
 
 (4) Clone it locally 
 
