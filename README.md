@@ -43,7 +43,9 @@ The directory `tomcl` shows sample individual code submission files and project.
 
 One module per file, module name same as file name. Module names should be capitalised.
 
-## Sharing Code
+## Sharing Code & Types
+
+Shared types: genuinely shared, developed at start, can be put into a common types module under libs subdirectory (not owned by any one person). Or, if you prefer, it can be owned for assessment purposes by one person and put under their code.
 
 Shared library code can be developed by an individuals as a module under their personal directory (for assessment of indiv code) and shared by others since you can add a module with source file anywhere to your fsharp project.
 
