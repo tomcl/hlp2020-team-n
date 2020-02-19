@@ -39,6 +39,20 @@ The directory `tomcl` shows sample individual code submission files and project.
 * Each team member should merge their work to master/ update from master from time to time. Needed before end (for assessment) and if their work has functions contributed from/to others.
 * Directory `team` will be used for final team deliverable. In that case merging individual branch work is not trivial since all code will run under the same directory.
 
+## FSharp files and modules
+
+One module per file, module name same as file name. Module names should be capitalised.
+
+## Sharing Code
+
+Shared library code can be developed by an individuals as a module under their personal directory (for assessment of indiv code) and shared by others since you can add a module with source file anywhere to your fsharp project.
+
+Obviously to share your code you will need to make sure it gets merged from your dev branch into master.
+
+During team phase, to make modules neater, you can relaocate shared library modules to a separate libs directory etc.
+
+[eeextensions.fs](https://intranet.ee.ic.ac.uk/t.clarke/hlp/images/eeextensions.zip) is a shared library I give you with a few utility functions added to the core standard libraries. Put this under your repo  libs directory from the start, and use it (from there) if you need to.
+
 ## Guidelines
 
 * Always do development on own branch, never directly on master
